@@ -1,0 +1,12 @@
+1 bool isA= (grade>=90&&grade<=100);
+2 x=0.6;
+3 kiểu long ko đáp ứng đủ kích thước
+4 true
+5 chương trình lỗi ko in ra gi
+6 lỗi 
+7) 0 0.75 0.75 0.75
+8 chương trình lỗi 
+9 không lỗi, chỉ tới char arg1
+10 int arg1
+11 chưa ép kiểu  cho 5/9
+12 here
